@@ -1,4 +1,4 @@
 -- Create the database
-DROP DATABSE IF EXIST techblog;
+DROP DATABASE IF EXISTS techblog;
 CREATE DATABASE techblog;
 
